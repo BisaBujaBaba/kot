@@ -3,4 +3,7 @@ def kalkulator(a,b,operacje):
 	
 	
 def operacje(x, y):
+	return (x + y)
+	
+def mnozenie(x, y):
 	return (x * y)
