@@ -1,4 +1,4 @@
-def kalkulator(a,b,operacja):
+def kalkulator(a,b,operacje):
 	pass
 	
 	
